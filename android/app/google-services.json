@@ -1,0 +1,229 @@
+{
+  "project_info": {
+    "project_number": "826906776727",
+    "project_id": "votingapp-62177",
+    "storage_bucket": "votingapp-62177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826906776727:android:d14cd3d784e0b4b86c05d2",
+        "android_client_info": {
+          "package_name": "com.example.emailauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_DrqdiI_8KohP4dX93Gh8UivgQMg85Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826906776727:android:afa098ecd83040c46c05d2",
+        "android_client_info": {
+          "package_name": "com.example.facetetectfromimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_DrqdiI_8KohP4dX93Gh8UivgQMg85Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826906776727:android:aa48691fd66148bd6c05d2",
+        "android_client_info": {
+          "package_name": "com.example.gaydatingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826906776727-vd5bpq0jsh4con61j3guiga5cltfilfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gaydatingapp",
+            "certificate_hash": "1512142b36ae42f69cade53b3d1a1b2f9cb011e5"
+          }
+        },
+        {
+          "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_DrqdiI_8KohP4dX93Gh8UivgQMg85Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826906776727:android:1f39c6f80bfefda86c05d2",
+        "android_client_info": {
+          "package_name": "com.example.googleauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826906776727-9d1h3nbcq774o3dr7p4k6ul9kj6cfgim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleauthentication",
+            "certificate_hash": "1512142b36ae42f69cade53b3d1a1b2f9cb011e5"
+          }
+        },
+        {
+          "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_DrqdiI_8KohP4dX93Gh8UivgQMg85Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826906776727:android:a0c69d31e977643b6c05d2",
+        "android_client_info": {
+          "package_name": "com.example.otpappagain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_DrqdiI_8KohP4dX93Gh8UivgQMg85Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826906776727:android:7f68e886d677bc0f6c05d2",
+        "android_client_info": {
+          "package_name": "com.example.pollingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_DrqdiI_8KohP4dX93Gh8UivgQMg85Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826906776727:android:ff100688c93ff8ef6c05d2",
+        "android_client_info": {
+          "package_name": "com.example.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_DrqdiI_8KohP4dX93Gh8UivgQMg85Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826906776727-c7b7mfpshemp68ch3gg8f9d92e9ii4fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
